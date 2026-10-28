@@ -1,0 +1,4 @@
+sequence,operation,customer_id,new_city
+1,UPDATE,101,Portland
+2,UPDATE,102,Austin
+3,DELETE,103,
